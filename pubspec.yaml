@@ -40,7 +40,6 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   shared_preferences: ^2.2.2
-  instagram_share_plus: ^0.1.0
   flutter_any_logo: ^1.1.1
 
   # The "flutter_lints" package below contains a set of recommended lints to

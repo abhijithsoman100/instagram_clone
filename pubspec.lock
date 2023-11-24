@@ -104,14 +104,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  instagram_share_plus:
-    dependency: "direct dev"
-    description:
-      name: instagram_share_plus
-      sha256: "5a45f8ddb63162376777b7981189c0bed9c4ca2e162f311b4b4293e7d5c252b5"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.1.0"
   lints:
     dependency: transitive
     description:
